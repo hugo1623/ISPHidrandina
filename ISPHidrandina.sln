@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ISPHidrandina", "ISPHidrandina.dtproj", "{C21584A3-D413-4AA1-A9C9-E97FB8DB8E52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C21584A3-D413-4AA1-A9C9-E97FB8DB8E52}.Development|Default.ActiveCfg = Development
+		{C21584A3-D413-4AA1-A9C9-E97FB8DB8E52}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B29BAED9-6F9F-4531-995F-424BC4343B5A}
+	EndGlobalSection
+EndGlobal
